@@ -21,6 +21,7 @@ const ALBUMS = [
     title: "Broken",
     year: "2021",
     artist: "Zeus Fontes",
+    link: "https://onerpm.link/8182470712",
     cover: "assets/img/covers/broken.jpg",
     tracks: [
       { name: "Eyes", file: "assets/audio/broken/01-eyes.mp3" },
